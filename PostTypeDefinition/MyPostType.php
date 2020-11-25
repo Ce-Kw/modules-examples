@@ -1,6 +1,6 @@
 <?php
 
-namespace CEhlers\CEWP\PostTypeDefinition;
+namespace Examples\PostTypeDefinition;
 
 use CEKW\WpPluginFramework\Core\ContentType\MetaBox;
 use CEKW\WpPluginFramework\Core\ContentType\PostType;
